@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jigisha21
+- 👋 Hi, I’m Jigisha
 - 👀 I’m interested in competitive programing..
 - 🌱 I’m currently learning c++ , full stack-web developement..
 - 💞️ I’m looking to collaborate on projects and hackathons..
